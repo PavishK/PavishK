@@ -104,6 +104,15 @@ UI/UX Design (Figma Basics), Secure Authentication, API Integration
 
 ---
 
+### ✅ [ToDo-SMART](https://github.com/PavishK/ToDO-SMART)
+
+> A smart and modern To-Do List application with AI-powered productivity insights.  
+> 📝 **Features:** Google OAuth login, create/update/delete tasks, personalized AI task analysis  
+> 🔧 **Tech Stack:** Next.js + TailwindCSS + NextAuth.js + MongoDB + Gemini AI  
+> 🌐 [Live Demo](https://to-do-smart.vercel.app)
+
+---
+
 ## 🧑‍💻 My Mission
 
 > *"Turning ideas into visually elegant and scalable web solutions."*
