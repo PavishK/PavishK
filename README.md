@@ -1,6 +1,6 @@
 ---
 
-# 👋 Hi, I'm Pavish K — Full Stack Developer & UI/UX Enthusiast
+# 👋 Hi, I'm Pavish K — Full Stack Developer
 
 Welcome to my GitHub! I'm a passionate and curious developer focused on building intuitive and impactful web applications using modern technologies.
 
@@ -123,7 +123,7 @@ UI/UX Design (Figma Basics), Secure Authentication, API Integration
 
 * [🐙 GitHub](https://github.com/PavishK)
 * [📧 Email](mailto:kpavish136@gmail.com)
-* [🌎 Portfolio](https://personal-portfolio-rdxc.onrender.com)
+* [🌎 Portfolio](www.pavishk.dev)
 * 🐳 [Docker Hub](https://hub.docker.com/repositories/pavishk)
 
 ---
