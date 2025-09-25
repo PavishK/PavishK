@@ -123,7 +123,7 @@ UI/UX Design (Figma Basics), Secure Authentication, API Integration
 
 * [🐙 GitHub](https://github.com/PavishK)
 * [📧 Email](mailto:kpavish136@gmail.com)
-* [🌎 Portfolio](www.pavishk.dev)
+* [🌎 Portfolio](https://pavishk.dev)
 * 🐳 [Docker Hub](https://hub.docker.com/repositories/pavishk)
 
 ---
